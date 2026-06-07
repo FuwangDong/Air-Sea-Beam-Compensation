@@ -1,5 +1,5 @@
-This repository contains the implementation and related materials for our paper, **“ISAC-Empowered Air–Sea Collaborative System: A UAV–USV Joint Inspection Framework,”** published in *IEEE Transactions on Wireless Communications (TWC)* in 2026.
+This repository is associated with our ongoing research on air–sea beam compensation, which is currently under review for possible publication in IEEE Transactions on Wireless Communications (TWC).
 
-The repository is still under active organization and refinement. Some materials, code, datasets, and documentation may currently be incomplete or missing. We are continuously updating the repository and will upload the remaining contents in future revisions.
+To comply with the journal's review and copyright policies, the source code, datasets, and related materials are not publicly available at this stage. The repository will be continuously updated, and the complete implementation and documentation will be released upon official publication of the paper.
 
-Thank you for your patience and interest in our work.
+Thank you for your interest and understanding.
